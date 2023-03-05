@@ -1,0 +1,136 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Verify Search IPhone Apple iPhone Pro Max page is displyed",
+        "description": "",
+        "id": "this-is-amazon-search-feature;verify-search-iphone-apple-iphone-pro-max-page-is-displyed",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12751760200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Launch Application URL",
+            "match": {
+              "location": "AmazonStepDefiClass.launch_Application_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 149833100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click Cell Phone \u0026 Accessories from the drop down",
+            "match": {
+              "location": "AmazonStepDefiClass.click_Cell_Phone_Accessories_from_the_drop_down()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2770248000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click Search Link",
+            "match": {
+              "location": "AmazonStepDefiClass.click_Search_Link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3375487700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click Cell Phones",
+            "match": {
+              "location": "AmazonStepDefiClass.click_Cell_Phones()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6327453500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click Apple from feature Brand",
+            "match": {
+              "location": "AmazonStepDefiClass.click_Apple_from_feature_Brand()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4014222000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Scroll Down",
+            "match": {
+              "location": "AmazonStepDefiClass.scroll_Down()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8671927200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Click iPhone Pro Max",
+            "match": {
+              "location": "AmazonStepDefiClass.click_iPhone_Pro_Max()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 32610400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Verify iPhone Pro Max Page Displayed",
+            "match": {
+              "location": "AmazonStepDefiClass.verify_iPhone_Pro_Max_Page_Displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 684755200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Close the application",
+            "match": {
+              "location": "AmazonStepDefiClass.close_the_application()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@AmazonSearch"
+          }
+        ]
+      }
+    ],
+    "name": "This is Amazon Search Feature",
+    "description": "",
+    "id": "this-is-amazon-search-feature",
+    "keyword": "Feature",
+    "uri": "amazon.feature"
+  }
+]
